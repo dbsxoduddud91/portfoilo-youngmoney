@@ -1,0 +1,570 @@
+# portfoilo-youngmoney
+<!DOCTYPE HTML>
+<!--
+	Paradigm Shift by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfolio About me by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />ㄴ
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section class="intro">
+						<header>
+							<style font-size: medium></style>
+							<h1>윤태영 2023 Updated</h1>
+							<br> Taeyoung Yoon <strong></strong>
+							<br>
+							<p> 22살부터의 11년간의 여정
+								<br>
+								<br>
+							
+								개인 홈페이지 - Since 2023 <a href="https://www.instagram.com/taeyoung052x/">Click</a></p> 
+								<br> Facebook <a href="https://www.facebook.com/8bo7I">Click</a> / Instagram <a href="https://www.instagram.com/taeyoung052x/">Click</a></p>
+							<ul class="actions">
+								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
+							</ul>
+						</header>				
+						<div class="content">
+							<span class="image fill" data-position="center"><img src="images/캐나다여행 (11).jpg" alt="" /></span>
+						</div>
+					</section>
+
+				<!-- Section -->
+					<section id="first">
+						<header>
+							<h2>자기 소개 및 학창시절</h2>
+						</header>
+						<div class="content">
+							<p><strong>About me</strong> 저의 학창시절은 친구들과 어울려 놀고 공부도 곧잘 하였습니다. 
+								
+								고등학생 때 어머님의 추천으로 일본어를 공부를 되었고 특히 심야식당이라는 드라마는 저의 최고의 선물 이였습니다. 지금은 다 기억이 안나지만 그때의 공부는 저에게 아주 긍정적인 도움이 되었습니다.
+								그것이 도화선이 되어서 언어와 외국인 친구들을 만나는 걸 좋아하게 되었지요.
+								항상 목표가 생기면 그걸 만들어 가는 과정과 성과를 우선적으로 생각을 하여서 성과는 잘 나는 편이였습니다. 자기 개발을 하는 것을 좋아하고 20대 초중에서는 항상 쫓기면 일을 했고 자기 개발을 하였습니다. 
+								30살이 지난 지금은 여유가 생기고 일을 차근차근 지혜롭게 풀어가는 법을 많이 익힌거 같습니다..</p>
+							<span class="image main"><img src="촬영(9).jpg" alt="" /></span>
+						</div>
+					</section>
+
+				<!-- Section -->
+					<section>
+						<header>
+							<h2>군 제대 이후의 
+								<br>&<strong>연도별 활동내역</h2>
+						</header>
+						
+						
+					
+										<div class="content">
+							<p><strong>2012.07~ 2013.09</strong> - (주)보노보노 신세계 푸드 입사 보노보노 마포점 일식파트 근무 </p>
+							<br>
+							<p><strong>2013.03~ 2016.12</strong> - 서울사이버대학교 영어학과 입학 2학년 2학기 4.5만점 2.3 학점 중퇴 </p>
+							<br>
+							<p><strong>2013.10~ 2014.04</strong> - 캐나다 여행 및 어학연수   </p>
+							<br>
+							<p><strong>2014.06~ 2018.08</strong>- 지역홍보방송 아르바이트를 시작으로 방송 PD,FD(주로 기업,지역홍보영상) 프리랜서 일 시작 </p>
+							<br>
+							<p><strong>2015.03~ 2015.10</strong> - 중국 어학연수 길림사범대학교에서 공부 및 지역 여행 </p>
+							<br>
+							<p><strong>2016.08~ 2017.09</strong>- KW명동호스텔 영어,중국어 담당 지원 직원으로 근무 (사드여파로 폐업) </p>
+							<br>
+							<p><strong>2016.03~ 2018.09</strong> - 개인사업으로 월곡동 점프노리(키즈카페) 개인 사업체 운영 </p>
+							<br>
+							<p><strong>2018.10~ 2021.06</strong> - 캐나다 해외취업 Alberta LMIA 진행 -> NOC C 총 2년 3개월 소요 캐나다 영주권 취득
+							<br>
+						
+							 Wow grills  - Peace river  10개월 근무 후 퇴사 영주권 신청 자격 획득 <a href="https://www.wowgrill.ca/">website </a>
+							 <br>
+							 Smittys's    - peace river 1년 2개월 근무        <a href="https://www.smittys.ca/Post/Peace-River/">website </a> 
+							 <br>
+							 McNamara Hotel - peace river 1년 반 근무 투잡으로 호텔 수리 관리 ,보안요원 으로 근무  <a href="https://www.facebook.com/McNamaraHotel/">website </a> 
+							 <br>
+							 <br>
+							
+							 <p><strong>2021.07 ~ 2022.09</strong></p> - 영인실업 
+							 백화점 및 할인점 행사장 진열물품 영업 및 행사장 내 물품 DP 및 납품 </p>
+
+							 <br>
+							
+							 2023년 현재 <br><br> ----------------------------------------------------------------------------------------------------------------------------------------
+							<ul class="feature-icons">
+								
+							</ul>
+							
+						</div>
+						
+					</section>
+
+				<!-- Section -->
+					<section>
+						<header>
+							<h2>자기소개 및 학창시절</h2>
+						</header>
+						<div class="content">
+							<p><strong>자기소개-
+								어렸을떄부터 운동을 좋아하였습니다. 지금은 그러한 몸을 가지고 있진 않지만요.책임감이 있고 주인의식이 있어서 맡은 바의 일을 항상 최선을 다하여 임하였습니다.<div class=""></div> 
+								항상 잘 웃고 남들을 배려 할줄 알면서 무엇보다 남에게 피해를 주는 것을 싫어하고 배려심이 남들 보다는 많다고 생각 합니다. 20대 중후반 까지는 수첩을 가지고 다니면서
+								일거수일투족을 시간 스케줄의 따라 운동 일 공부 활동 등을 남들이 볼때 과하게 생활을 하였습니다. 자기 개발을 하는 것을 좋아하고 20대 초중에서는 항상 쫓기면 일을 했고 자기 개발을 하였습니다. 
+								30살이 지난 지금은 여유가 생기고 일을 차근차근 지혜롭게 풀어가는 법을 많이 익힌거 같습니다.
+								<br>
+								<br>
+							    고등학교때 심야식당이라는 일본드라마를 동경하여 일본어 일본 문화의 관심으로 일본도 몇차례 방문 일본인 친구들과 펜팔(야후이메일)을 하면서 꿈을 키웠었습니다. 일식음식을 전공으로 초창기 사회생활을 시작을 하였습니다. 그 이후 어머니의 권유로 캐나다 행 여행길의 올라
+                                군 제대 이후 바로 신세계 푸드의 입사를 하면서 근무를 하였고 중간의 어머니의 권유로 캐나다 행 유학 & 여행 길의 올랐었습니다. 
+								<br><br><br>
+								<img src= "images/캐나다여행 (9).jpg" style="float:left; width:400px;height:300px."><img src= "images/캐나다여행 (8).jpg" style="float:right; width:400px;height:300px."> 
+							    <br><br><br><br>
+								<br>
+								6개월의 캐나다 전역 여행 이후의 돌아와서
+								지인의 소개로 대전의 케이블 tv의 지역방송 홍보영상을 스태프를 시작으로 방송계의 프리랜서의 일을 시작을 하였습니다.
+								인맥들의 소개로 저는 2018년 까지 60여 편 이상의 크고 작은 프로그램에 기획,연출,연출보조를 하였습니다. 
+								일의 수행으로는 로케이션 매니저,시노십스 제작, 회의 참여 , 회의 정리, 간단한 컷편집, 영상편집, 이미지 서치, 현장 연출, 진행보조 ,일정조율,스태프 인솔  등 다양한 일들을 하였습니다.
+								프로덕션의 PD님들의 따라서 하는 보조 일들을 그때 그떄 달라졌습니다.
+								대표작으로는 설화수 CF,LS전선 해외홍보영상,LG기업 사내영상, 송도 지역 홍보영상,  LG 냉장고 노크온 CF, 부산국제금융센터 홍보영상, 포스코 홍보영상(해외촬영), TV조선 위대한이야기 - 김일 편,
+                                등 길게는 몇주 짧게는 당일 ~2,3일 까지 다양한 분야의 60여편의 촬영팀의 스태프로 참여 하였습니다.
+								<img src= "images/촬영 (9).jpg" style="width:400px;height:300px."><img src= "images/촬영 (2).jpg" style="width:800px;height:600px.">
+								<img src= "images/촬영 (19).jpg" style="float:left; width:600px;height:450px."><img src= "images/촬영 (20).jpg" style="float:right; width:600px;height:450px.">
+								<img src= "images/촬영 (21).jpg" style="width:400px;height:300px."><img src= "images/촬영 (22).jpg" style=" width:400px;height:300px.">
+								<img src= "images/촬영 (23).jpg" style="float:left; width:400px;height:300px."><img src= "images/촬영 (24).jpg" style="float:right; width:400px;height:300px.">
+								<img src= "images/촬영 (27).jpg" style="float:left; width:400px;height:300px."><img src= "images/촬영 (37).jpg" style="float:right; width:400px;height:300px.">
+								<img src= "images/촬영 (25).jpg" style="width:800px;height:600px.">
+								<br>
+								<br>
+							
+							
+								
+								
+                                개인사업체 운영
+								<br>
+								하월곡동 키즈카페 (점프노리) 운영 2016년 3월 2018년 9월까지 운영을 하였습니다. 초반 운영 및 세팅을 하여서 평일에는 아르바이트에게 맡기고 운영하였고
+								저는 평일에는 퇴근 후 관리 주말에는 운영 이러하게 저의 개인 사업을 운영을 하였습니다.
+								<img src= "images/키즈카페 (17).jpg" style="width:800px;height:600px."><img src= "images/키즈카페 (16).jpg" style="width:800px;height:600px.">
+								<br>
+								<br>
+								KW명동호스텔 
+								<br>
+								2017년 중국어,영어 담당자로 취업
+								언어의 부재로 인하여 계속 사용을 해야겠다는 마음으로 취업을 하였었습니다. 그 곳에서 다양한 국가의 사람들을 경험 가끔 씩 무료로 인솔자의 일들을 수행하면서
+								저의 존재를 키웠었습니다. 하지만 사드사건으로 명동은 쇠퇴의 길로 들어섰고 1년 1개월 만의 폐업을 진행을 하게 되어서 저도 자연스럽게 퇴사.
+								<img src= "images/kw명동호스텔 (6).jpg" style="width:800px;height:600px.">
+								<img src= "images/kw명동호스텔 (10).jpg" style="width:800px;height:600px.">
+								<br>
+								<br>
+								캐나다 이민 및 취업
+								<br>
+								2018년 방송계 쪽의 일이 너무나 큰 스트레스로 찾아왔고 번아웃이 오게 되었습니다.(밤샘 촬영 후 술자리 영업 밤샘 업무의 연속, 회의의 연속 등)
+								저는 너무 지쳐갔고 캐나다 이민이라는 것을 가게 되었습니다. 영어성적을 맞추고 한국에서의 조건을 맞춰서 2018년 10월 입국 후 2년 3개월 동안의 진행으로
+								영주권을 취득하였습니다.
+								<img src= "images/캐나다영주권진행중 (5).JPG"style="width:800px;height:600px.">
+								<img src= "images/캐나다영주권진행중 (7).JPG" style="width:800px;height:600px.">
+								<br>
+								<br>
+								영인실업 입사
+								<br>
+								2021년 6월 한국 입국 후 사실 경력 단절이라는 부분이 저에게 너무 크나크게 다가왔습니다. 코로나 때문의 힘든 상황에서 감사하게 1달 안에 입사를 하게되었습니다.
+								업무는 백화점 행거나 물품 납품 및 영업 간단한 워드 업무 였습니다.
+								<br>
+								<br>
+
+								2023년 현재 
+								<br><br>
+								----------------------------------------------------------------------------------------------------------------------------
+<br><br>
+
+							<p><strong>학창시절-
+
+								<br>
+								<br> </strong> 저의 학창시절은 친구들과 어울려 놀고 운동도 좋아하였고 공부도 곧잘 하였습니다. 
+								고등학생 때 어머님의 추천으로 일본어를 공부를 되었고 특히 심야식당이라는 드라마는 저의 최고의 선물 이였습니다. 지금은 다 기억이 안나지만 그때의 공부는 저에게 아주 긍정적인 도움이 되었습니다.
+								그것이 도화선이 되어서 언어와 외국인 친구들을 만나는 걸 좋아하게 되었지요.
+								항상 목표가 생기면 그걸 만들어 가는 과정과 성과를 우선적으로 생각을 하여서 성과는 잘 나는 편이였습니다. 자기 개발을 하는 것을 좋아하고 20대 초중에서는 항상 쫓기면 일을 했고 자기 개발을 하였습니다. 
+								30살이 지난 지금은 여유가 생기고 일을 차근차근 지혜롭게 풀어가는 법을 많이 익힌거 같습니다..</p>
+								<br>
+								자격증 또는 어학점수 <img src= "images/자격증.jpg" style="float:right ; width:400px;height:300px.">
+								<br>
+								<br>
+								2010년 ??월 1종보통운전면허 취득
+								<br>
+								2012년 ??월 250cc이상 오토바이 면허취득
+								<br>
+								2015년 11월 HSK 5급 300점 만점 220점 통과
+								<br> 
+								2018년 08월 아이엘츠 평균 4.5점 
+
+
+							<!-- Section -->
+								<section>
+									<header>
+										<img src= "images/장점.jpg" style=" width:800px;height:600px.">
+										<h3>본인이 생각하는 본인의 3가지의 장점</h3>
+										<p>1.다양한 직업 경험 및 활동 능력을 소유 
+											<br>
+											<br>
+										
+											외국인인솔자, 가이드, 방송기획, 편집, 연출, 촬영 , 개인사업자, 해외취업, 포토샵 사용가능, ADOBE 프리미어 사용가능, ADOBE 라이트룸 사용가능 , 엑셀, 한글 기본 문서 사용가능
+										   <br>
+										   <br>
+										   2. 성실함 ,주인의식 ,꼼꼼함 ,이해심, 협동심
+										   <br><br>
+										   3.시간약속 ,철저한 계획성
+										    
+										</p>
+									</header>
+									<div class="content">
+										<div class="images">
+											<a href="images/kw명동호스텔 (1).jpg" class="landscape"><img src="images/kw명동호스텔 (10).jpg" alt="" /></a>
+											<a href="images/kw명동호스텔 (1)"jpg"><img src="images/gallery/thumbs/02.jpg" alt="" /></a>
+											<a href="images/gallery/fulls/03.jpg"><img src="images/gallery/thumbs/03.jpg" alt="" /></a>
+											<a href="images/gallery/fulls/04.jpg" class="landscape"><img src="images/gallery/thumbs/04.jpg" alt="" /></a>
+										</div>
+									</div>
+								
+					
+
+				<!-- Elements -->
+				<!--
+					<section>
+						<header>
+							<h2>Elements</h2>
+						</header>
+						<div class="content">
+
+							<section>
+								<header>
+									<h3>Text</h3>
+								</header>
+								<div class="content">
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<hr />
+									<h5>Blockquote</h5>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h5>Preformatted</h5>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+  print 'Iteration ' + i;
+  deck.shuffle();
+  i++;
+}
+
+print 'Sorted in ' + i + ' iterations.';</code></pre>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Lists</h3>
+								</header>
+								<div class="content">
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Table</h3>
+								</header>
+								<div class="content">
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Buttons</h3>
+								</header>
+								<div class="content">
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button large">Large</a></li>
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Form</h3>
+								</header>
+								<div class="content">
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</div>
+							</section>
+
+						</div>
+					</section>
+				-->
+
+				<!-- Section -->
+					<section>
+						<header>
+							<h2>이메일 및 연락처</h2>
+						</header>
+						<div class="content">
+							<p><strong>Auctor commodo</strong> interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
+							<form>
+								<div class="fields">
+									<div class="field half">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" class="button primary" /></li>
+								</ul>
+							</form>
+						</div>
+						<footer>
+							<ul class="items">
+								<li>
+									<h3>Email</h3>
+									<a href="#">dbsxoduddud91@gmail.com</a>
+								</li>
+								<li>
+									<h3>Phone</h3>
+									<a href="#">(+82)10-7652-0525</a>
+								</li>
+								<li>
+									<h3>본인 거주지</h3>
+									<span>경기도 파주시 조리읍 봉일천</span>
+								</li>
+								<li>
+									<h3>Elsewhere</h3>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/8bo7I" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/taeyoung052x/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+									</ul>
+								</li>
+							</ul>
+						</footer>
+					</section>
+
+				<!-- Copyright -->
+					<div class="copyright">&copy; Updated.2023-04-20: <a href="https://html5up.net">HTML5 UP</a>.</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
